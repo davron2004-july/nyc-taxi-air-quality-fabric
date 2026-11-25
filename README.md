@@ -22,9 +22,9 @@ An end-to-end Data Engineering project built in **Microsoft Fabric** using the *
 ## Dashboard Preview
 Key findings for January 2024: **3M total trips**, **$74.66M total revenue**, and an average **PM2.5 level of 12.01 µg/m³**.
 
-![NYC Taxi and Air Quality Dashboard](Screenshot%202026-11-22%20at%2019.31.50.png)
+![NYC Taxi and Air Quality Dashboard](dashboard.png)
 
 ## Repository Structure
 * `01_NYC_Taxi_Medallion.ipynb` — NYC Taxi Bronze, Silver, and Gold pipeline
 * `02_AirQuality_Medallion.ipynb` — Air Quality ingestion, JSON flattening, and final Gold join
-* `Screenshot 2026-11-22 at 19.31.50.png` — Power BI Dashboard preview
+* `dashboard.png` — Power BI Dashboard preview
